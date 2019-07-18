@@ -1,0 +1,8 @@
+[package]
+name = "johto-rust"
+version = "0.1.0"
+authors = ["Konrad Kühne <konrad.kuehne@lambdaforge.io>"]
+edition = "2018"
+
+[dependencies]
+ferris-says = "0.1"
